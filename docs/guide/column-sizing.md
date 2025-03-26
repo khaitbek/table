@@ -150,7 +150,7 @@ TanStack Table provides a pre-built event handler to make your drag interactions
 
 ##### Column Resize Indicator with ColumnSizingInfoState
 
-TanStack Table keeps track of an state object called `columnSizingInfo` that you can use to render a column resize indicator UI.
+TanStack Table keeps track of a state object called `columnSizingInfo` that you can use to render a column resize indicator UI.
 
 ```jsx
 <ColumnResizeIndicator
